@@ -16,9 +16,12 @@ Work in progress — early stage.
 
 ```
 /
-├── index.html
-├── style.scss
-└── ...
+├── README.md
+├── Front/
+│   ├── index.html
+│   ├── style.scss
+│   └── style.css
+└── Back/
 ```
 
 ## ⚔️ How it works
