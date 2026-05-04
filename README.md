@@ -33,3 +33,5 @@ Work in progress — early stage.
 4. **Leaderboard** — All verses are ranked by their current Elo score, reflecting the community's taste in real time
 
 ## 🚀 Run locally
+
+- At this moment, just have to make changes to html and scss files.
