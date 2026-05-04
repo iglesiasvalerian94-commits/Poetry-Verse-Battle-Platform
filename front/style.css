@@ -14,4 +14,7 @@ body .Main-nav-link {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
   background-color: black;
+}
+body .Main-nav .profil {
+  grid-column: 3/4;
 }/*# sourceMappingURL=style.css.map */
