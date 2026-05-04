@@ -20,7 +20,8 @@ Work in progress — early stage.
 ├── Front/
 │   ├── index.html
 │   ├── style.scss
-│   └── style.css
+│   ├── style.css
+│   └── style.css.map
 └── Back/
 ```
 
