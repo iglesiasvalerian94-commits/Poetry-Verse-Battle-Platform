@@ -25,7 +25,7 @@ Work in progress — early stage.
 └── Back/
 ```
 
-## ⚔️ How it works
+## ⚔️ How it will works
 
 1. **Sign up** — Create an account to participate
 2. **Vote** — Each round presents two french poetry verses head-to-head. Pick the one you think is best
