@@ -33,8 +33,3 @@ Work in progress — early stage.
 4. **Leaderboard** — All verses are ranked by their current Elo score, reflecting the community's taste in real time
 
 ## 🚀 Run locally
-
-1. Clone the repo
-2. Move the project folder into your XAMPP `htdocs` directory
-3. Start Apache & MySQL in XAMPP
-4. Open `http://localhost/Poetry-Verse-Battle-Platform`
