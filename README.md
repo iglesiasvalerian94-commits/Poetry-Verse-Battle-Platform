@@ -34,4 +34,4 @@ Work in progress — early stage.
 
 ## 🚀 Run locally
 
-- At this moment, just have to make changes to html and scss files.
+- At this moment, download file and run it.
